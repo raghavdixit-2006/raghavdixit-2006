@@ -9,9 +9,8 @@ You have work for me? do reach on my [email](mailto:raghavdixit.work@outlook.com
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raghavdixit-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raghavdixit-2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdixit-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![raghavdixit-2006's Stats](https://github-readme-stats.vercel.app/api?username=raghavdixit-2006&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)<br>
+![raghavdixit-2006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdixit-2006&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)<br>
 
 
 ### 🔝 Top Contributed Repo
