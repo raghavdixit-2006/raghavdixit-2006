@@ -1,6 +1,6 @@
 
 ## 🤙 Reach Me:
-You have work for me? do reach on my [email](mailto:raghavdixit.work@outlook.com) :)
+You have work for me? do reach on my [email](mailto:raghavdixit2006@gmail.com) :)
 
 
 ## 🌐 Socials:
